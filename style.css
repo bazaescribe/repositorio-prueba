@@ -6,6 +6,14 @@ body{
 .container{
     background: linear-gradient(red, pink);
     padding: 32px;
+    height: 100vh; /* Viewport height */
+}
+
+.container h1{
+    color: linen;
+}
+
+.element-list{
     display: flex;
 }
 
