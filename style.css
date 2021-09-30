@@ -1,0 +1,18 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    background: linear-gradient(red, pink);
+    padding: 32px;
+    display: flex;
+}
+
+.element{
+    background: linen;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+    margin: 16px;
+    padding: 16px;
+    border-radius: 8px;
+}
